@@ -1,0 +1,5 @@
+pandas-profiling==3.6.6
+konlpy
+nltk
+gensim
+scikit-learn
